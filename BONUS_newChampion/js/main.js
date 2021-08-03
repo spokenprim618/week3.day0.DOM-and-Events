@@ -6,6 +6,6 @@ header.appendChild(text);
 let main=document.querySelector(".main_container")
 main.appendChild(newDiv);
 let pykeImage=document.querySelector(".pyke")
-pykeImage.style['background-image']="assets/pyke.jpg";
+pykeImage.src="assets/pyke.jpg";
 pykeImage.style['background-color']="yellow";
 //problem background image
